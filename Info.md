@@ -23,9 +23,12 @@
 *You can only have 1 specialization per unit!*
 
 - **JUNGLE**
-  - Mainly used for china & brazil
+  - Troops move around and fight better in jungle biomes.
+  - A few notable countries that have this terrain are China,India, and Brazil
 - **Winter**
-  - Used for any country that experiences extremely cold temperatures (finland,russia,antarctica,china,UK,norway,canada,ect)
+  - Troops move around and fight better in winter biomes.
+  - A few notable countries that have this terrain are Finland,Russia,Antarctica,Norway,Canada or any country that has a **Severe Winter** stage
 - **Arid**
-  - Used for places where there are a lot of spaces between cities (US,AFRICA,CHINA,RUSSIA)
+  - Troops move around and fight better in Arid biomes
+  - A few notable countries that have this terrain are United States, Africa, China, Russia
 - !["Img"](proimgtip5.jpg)
