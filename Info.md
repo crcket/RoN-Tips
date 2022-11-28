@@ -32,3 +32,8 @@
   - Troops move around and fight better in Arid biomes
   - A few notable countries that have this terrain are United States, Africa, China, and Russia
 - !["Img"](proimgtip5.jpg)
+
+# Artillery
+1. when using artillery NEVER let any unit close enough to attack it
+2. if an enemy unit is INSIDE of the orange circle (see img1), it will do a FUCKTON of dmg depending on how much artillery you have. You can upgrade artillery dmg in the SUPPORT tab in technology
+3. - !["Img"](artillerydmg.jpg)
