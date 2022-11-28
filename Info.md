@@ -30,5 +30,5 @@
   - A few notable countries that have this terrain are Finland,Russia,Antarctica,Norway,Canada or any country that has a **Severe Winter** stage
 - **Arid**
   - Troops move around and fight better in Arid biomes
-  - A few notable countries that have this terrain are United States, Africa, China, Russia
+  - A few notable countries that have this terrain are United States, Africa, China, and Russia
 - !["Img"](proimgtip5.jpg)
