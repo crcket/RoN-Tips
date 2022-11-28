@@ -16,7 +16,7 @@
   - !["Img"](Images/proimgtip2.jpg)
   - !["Img"](Images/proimgtip3.jpg)
 
-# TRAINING
+# Training
 
 - If you select your troops and press start training, this will open the advanced training menu. Here you can select which type of terrain your unit specializes in.
 
@@ -35,5 +35,5 @@
 
 # Artillery
 1. when using artillery NEVER let any unit close enough to attack it
-2. if an enemy unit is INSIDE of the orange circle (see img1), it will do a FUCKTON of dmg depending on how much artillery you have. You can upgrade artillery dmg in the SUPPORT tab in technology
+2. if an enemy unit is INSIDE of the orange circle, it will do a FUCKTON of dmg depending on how much artillery you have. You can upgrade artillery dmg in the SUPPORT tab in technology
 3. - !["Img"](Images/artillerydmg.jpg)
