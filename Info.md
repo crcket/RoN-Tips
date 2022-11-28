@@ -1,5 +1,5 @@
 # UI Navigation
-  !["Image so you can see it better"](proimgtip1.jpg)
+  !["Image so you can see it better"](Images/proimgtip1.jpg)
 # Military Section
 - If you click on doctrines, you can select what type of fighting your army does *only listing army types for right now, check back another time*
 ### Army
@@ -13,8 +13,8 @@
   3. Manpower increases 2x
 ## Military Groups
   - You can create multiple groups for free, this is for putting units (boats,infantry&tanks&artillery&anti-aircraft, and any airplane) to specialize or increase properties depending on the leader
-  - !["Img"](proimgtip2.jpg)
-  - !["Img"](proimgtip3.jpg)
+  - !["Img"](Images/proimgtip2.jpg)
+  - !["Img"](Images/proimgtip3.jpg)
 
 # TRAINING
 
@@ -31,9 +31,9 @@
 - **Arid**
   - Troops move around and fight better in Arid biomes
   - A few notable countries that have this terrain are United States, Africa, China, and Russia
-- !["Img"](proimgtip5.jpg)
+- !["Img"](Images/proimgtip5.jpg)
 
 # Artillery
 1. when using artillery NEVER let any unit close enough to attack it
 2. if an enemy unit is INSIDE of the orange circle (see img1), it will do a FUCKTON of dmg depending on how much artillery you have. You can upgrade artillery dmg in the SUPPORT tab in technology
-3. - !["Img"](artillerydmg.jpg)
+3. - !["Img"](Images/artillerydmg.jpg)
