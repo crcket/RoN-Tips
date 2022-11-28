@@ -15,15 +15,17 @@
   - You can create multiple groups for free, this is for putting units (boats,infantry&tanks&artillery&anti-aircraft, and any airplane) to specialize or increase properties depending on the leader
   - !["Img"](proimgtip2.jpg)
   - !["Img"](proimgtip3.jpg)
-#TRAINING
+
+# TRAINING
+
 - If you select your troops and press start training, this will open the advanced training menu. Here you can select which type of terrain your unit specializes in.
 
-**YOU CAN ONLY HAVE 1 SPECIALIZATION PER UNIT**
+*You can only have 1 specialization per unit!*
 
-**JUNGLE**
+- **JUNGLE**
   - Mainly used for china & brazil
-**Winter**
+- **Winter**
   - Used for any country that experiences extremely cold temperatures (finland,russia,antarctica,china,UK,norway,canada,ect)
-**Arid**
+- **Arid**
   - Used for places where there are a lot of spaces between cities (US,AFRICA,CHINA,RUSSIA)
 - !["Img"](proimgtip5.jpg)
